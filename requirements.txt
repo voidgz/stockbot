@@ -1,0 +1,10 @@
+python-telegram-bot==21.*
+python-dotenv==1.*
+yfinance==0.2.*
+pandas==2.*
+pandas_ta==0.3.*
+feedparser==6.*
+requests==2.*
+beautifulsoup4==4.*
+lxml==5.*
+google-generativeai==0.8.*
